@@ -1,2 +1,2 @@
 # AcceptanceTests-Construp
-Historias de usuario del Construp
+Historias de usuario de Construp
