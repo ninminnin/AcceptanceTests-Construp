@@ -9,5 +9,5 @@ Scenario: Ver certificado o ficha técnica
     And vaya a la sección de archivos adjuntos
     And selecciona la pestaña desplegable del certificado
     And selecciona el botón "Ver certificado "
-
     Then el sistema abre o descarga el documento en formato PDF
+
